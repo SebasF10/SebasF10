@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-label="TutorBot">
+<defs>
+  <linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#FCD34D" stop-opacity="0"/><stop offset="0.5" stop-color="#FCD34D" stop-opacity="0.9"/><stop offset="1" stop-color="#FCD34D" stop-opacity="0"/></linearGradient>
+  <clipPath id="c"><rect x="4" y="4" width="572" height="222" rx="16"/></clipPath>
+</defs>
+<rect x="4" y="4" width="572" height="222" rx="16" fill="#111A2E" stroke="#1E2A44" stroke-width="1.5"/>
+<g clip-path="url(#c)">
+  <rect x="-200" y="4" width="200" height="2" fill="url(#sweep)"><animate attributeName="x" values="-200;580;580" keyTimes="0;0.6;1" dur="4s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="32" y="30" width="134" height="22" rx="6" fill="#FCD34D" fill-opacity="0.14"/>
+<text x="99" y="45" text-anchor="middle" font-family="'Segoe UI', Inter, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" fill="#FCD34D" letter-spacing="1.2">AUTOMATIZACIÓN</text>
+<text x="32" y="92" font-family="'Segoe UI', Inter, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="800" fill="#E2E8F0">TutorBot</text>
+<text x="32" y="122" font-family="'Segoe UI', Inter, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94A3B8">Automatización en n8n que conecta estudiantes con</text>
+<text x="32" y="143" font-family="'Segoe UI', Inter, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94A3B8">tutores por Telegram, con Google Sheets como base de</text>
+<text x="32" y="164" font-family="'Segoe UI', Inter, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94A3B8">datos.</text>
+<rect x="32" y="178" width="46.8" height="26" rx="13" fill="#FCD34D" fill-opacity="0.1" stroke="#FCD34D" stroke-opacity="0.45"/><text x="55.4" y="195" text-anchor="middle" font-family="'Segoe UI', Inter, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">n8n</text><rect x="86.8" y="178" width="84.8" height="26" rx="13" fill="#FCD34D" fill-opacity="0.1" stroke="#FCD34D" stroke-opacity="0.45"/><text x="129.2" y="195" text-anchor="middle" font-family="'Segoe UI', Inter, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">Telegram</text><rect x="179.6" y="178" width="122.8" height="26" rx="13" fill="#FCD34D" fill-opacity="0.1" stroke="#FCD34D" stroke-opacity="0.45"/><text x="241" y="195" text-anchor="middle" font-family="'Segoe UI', Inter, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">Google Sheets</text>
+<text x="548" y="45" text-anchor="end" font-family="'Segoe UI', Inter, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#64748B">Ver repositorio →</text>
+</svg>

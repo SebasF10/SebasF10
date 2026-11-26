@@ -1,12 +1,12 @@
-<img width="100%" src="./assets/header.svg" alt="Sebastián Feo — Junior Developer" />
+<img width="100%" src="./assets/header.svg" alt="Sebastián Feo Murillo — Junior Developer, backend con Java y Spring Boot" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=820&height=46&lines=Backend+con+Java+y+Spring+Boot;Bases+de+datos+con+MySQL;Videojuegos+2D+en+Unity;Automatizaciones+con+n8n;INSERT+COIN+TO+CONTINUE" alt="Frases animadas" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=760&height=46&lines=APIs+REST+con+Java+y+Spring+Boot;Bases+de+datos+con+MySQL+y+PostgreSQL;Videojuegos+2D+en+Unity;Automatizaciones+con+n8n" alt="Frases animadas" />
 
 </div>
 
-<img width="100%" src="./assets/player.svg" alt="Estadísticas del jugador: Java y Spring, bases de datos, web, Python, n8n, Unity, PHP e IA" />
+<img width="100%" src="./assets/overview.svg" alt="En resumen: 48 repositorios públicos, 12 proyectos en Java, programando en GitHub desde 2024" />
 
 <br/>
 
@@ -14,75 +14,65 @@
   <tr>
     <td width="50%" valign="top">
 
-### Sobre el jugador
+### Sobre mí
 
-Soy **Sebastián**, junior developer de **Bucaramanga**. Me gusta construir el backend que hace funcionar las cosas y, cuando toca descansar, crear videojuegos en Unity.
+Soy **Sebastián**, junior developer de **Bucaramanga**. Me enfoco en el backend: diseñar APIs, modelar bases de datos y organizar el código en capas. Fuera de eso, me gusta crear videojuegos en Unity.
 
     </td>
     <td width="50%" valign="top">
 
-### Registro de misiones
+### En qué ando
 
-| Misión | Estado |
-|:--|:--:|
-| APIs REST con Spring Boot | `EN CURSO` |
-| Seguridad y pruebas en Spring | `ENTRENANDO` |
-| Videojuegos 2D en Unity | `SIDE QUEST` |
-| Bases de datos relacionales | `COMPLETADA` |
+| | |
+|:--|:--|
+| **Construyendo** | APIs REST con Spring Boot |
+| **Aprendiendo** | seguridad y pruebas en Spring |
+| **Me interesa** | arquitectura en capas y bases de datos |
+| **Fuera del código** | videojuegos 2D en Unity |
 
     </td>
   </tr>
 </table>
 
-<img width="100%" src="./assets/inventory.svg" alt="Inventario: Java, Spring, Maven, MySQL, PostgreSQL, Python, JavaScript, HTML, CSS, PHP, Unity, n8n, Discord, Git y GitHub" />
+<img width="100%" src="./assets/inventory.svg" alt="Stack tecnológico: Java, Spring, Maven, MySQL, PostgreSQL, Python, JavaScript, HTML, CSS, PHP, Unity, n8n, Discord, Git y GitHub" />
 
 ---
 
-<h2 align="center">SELECCIONA UN NIVEL</h2>
+<h2 align="center">Proyectos destacados</h2>
 
 <p align="center">
-  <a href="https://github.com/SebasF10/coworkhub"><img width="49%" src="./assets/levels/coworkhub.svg" alt="CoworkHub" /></a>
-  <a href="https://github.com/SebasF10/Neo-Space"><img width="49%" src="./assets/levels/neospace.svg" alt="Neo-Space" /></a>
-  <a href="https://github.com/SebasF10/medisalud"><img width="49%" src="./assets/levels/medisalud.svg" alt="MediSalud" /></a>
-  <a href="https://github.com/SebasF10/Proyecto_TutorBot_Grupo3"><img width="49%" src="./assets/levels/tutorbot.svg" alt="TutorBot" /></a>
-  <a href="https://github.com/SebasF10/RunShip"><img width="49%" src="./assets/levels/runship.svg" alt="RunShip" /></a>
-  <a href="https://github.com/SebasF10/Teachable_Machine_proyecto"><img width="49%" src="./assets/levels/gestos.svg" alt="Gestos IA" /></a>
+  <a href="https://github.com/SebasF10/coworkhub"><img width="49%" src="./assets/proyectos/coworkhub.svg" alt="CoworkHub" /></a>
+  <a href="https://github.com/SebasF10/medisalud"><img width="49%" src="./assets/proyectos/medisalud.svg" alt="MediSalud" /></a>
+  <a href="https://github.com/SebasF10/Neo-Space"><img width="49%" src="./assets/proyectos/neospace.svg" alt="Neo-Space" /></a>
+  <a href="https://github.com/SebasF10/RunShip"><img width="49%" src="./assets/proyectos/runship.svg" alt="RunShip" /></a>
+  <a href="https://github.com/SebasF10/Proyecto_TutorBot_Grupo3"><img width="49%" src="./assets/proyectos/tutorbot.svg" alt="TutorBot" /></a>
+  <a href="https://github.com/SebasF10/Teachable_Machine_proyecto"><img width="49%" src="./assets/proyectos/gestos.svg" alt="Reconocimiento de gestos" /></a>
 </p>
 
 ---
 
-<h2 align="center">HIGH SCORES</h2>
+<h2 align="center">Actividad en GitHub</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SebasF10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=05060F&title_color=39FF14&icon_color=FFE600&text_color=E6FFE6&ring_color=00E5FF&custom_title=Puntaje" alt="Puntaje en GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasF10&layout=compact&hide_border=true&bg_color=05060F&title_color=00E5FF&text_color=E6FFE6&custom_title=Lenguajes" alt="Lenguajes más usados" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SebasF10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1120&title_color=34D399&icon_color=22D3EE&text_color=E2E8F0&ring_color=818CF8&custom_title=Estad%C3%ADsticas" alt="Estadísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasF10&layout=compact&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=E2E8F0&custom_title=Lenguajes%20m%C3%A1s%20usados" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=SebasF10&hide_border=true&background=05060F&ring=39FF14&fire=FF2BD6&currStreakNum=39FF14&sideNums=E6FFE6&currStreakLabel=39FF14&sideLabels=00E5FF&dates=5B7A6B&stroke=0F1A2E" alt="Racha de contribuciones" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=SebasF10&hide_border=true&background=0B1120&ring=34D399&fire=22D3EE&currStreakNum=34D399&sideNums=E2E8F0&currStreakLabel=34D399&sideLabels=94A3B8&dates=64748B&stroke=1E2A44" alt="Racha de contribuciones" />
 </p>
 
-<h3 align="center">Pac-Man se come mis contribuciones</h3>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SebasF10/SebasF10/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SebasF10/SebasF10/output/pacman-contribution-graph.svg" />
-  <img width="100%" alt="Pac-Man comiéndose las contribuciones" src="https://raw.githubusercontent.com/SebasF10/SebasF10/output/pacman-contribution-graph.svg" />
-</picture>
-
-<h3 align="center">Y en Galaga las defiende</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SebasF10/SebasF10/output/galaga-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SebasF10/SebasF10/output/galaga-contribution-graph.svg" />
-  <img width="100%" alt="Galaga con las contribuciones" src="https://raw.githubusercontent.com/SebasF10/SebasF10/output/galaga-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img width="100%" alt="Contribuciones en 3D" src="./profile-3d-contrib/profile-night-green.svg" />
 </picture>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/SebasF10?tab=repositories"><img src="https://img.shields.io/badge/VER_TODOS_LOS_REPOS-05060F?style=for-the-badge&logo=github&logoColor=39FF14" alt="Ver todos los repos" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SebasF10&style=for-the-badge&color=39FF14&label=JUGADORES" alt="Visitas" />
+  <a href="https://github.com/SebasF10?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_mis_repos-0B1120?style=for-the-badge&logo=github&logoColor=34D399" alt="Ver todos mis repos" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SebasF10&style=for-the-badge&color=22D3EE&label=VISITAS" alt="Visitas" />
 </p>
 
-<img width="100%" src="./assets/gameover.svg" alt="Gracias por jugar" />
+<img width="100%" src="./assets/footer.svg" alt="Gracias por visitar mi perfil" />
