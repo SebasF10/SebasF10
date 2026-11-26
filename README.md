@@ -71,7 +71,7 @@ Soy **Sebastián**, junior developer de **Bucaramanga**. Me enfoco en el backend
 ---
 
 <p align="center">
-  <a href="https://github.com/SebasF10?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_mis_repos-0B1120?style=for-the-badge&logo=github&logoColor=34D399" alt="Ver todos mis repos" /></a>
+  <a href="https://github.com/SebasF10?tab=repositories"><img src="https://img.shields.io/badge/Todos_mis_repositorios-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos mis repos" /></a>
   <img src="https://komarev.com/ghpvc/?username=SebasF10&style=for-the-badge&color=22D3EE&label=VISITAS" alt="Visitas" />
 </p>
 
